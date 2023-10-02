@@ -53,4 +53,4 @@ topics:
 
   - name: Kivy Framework
     web_url: https://kivy.org/
-    image_url: https://kivy.org/static/images/logo_kivy_white.png
+    image_url: https://raw.githubusercontent.com/kivy/kivy/master/kivy/data/logo/kivy-icon-256.png
