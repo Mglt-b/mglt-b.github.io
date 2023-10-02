@@ -54,3 +54,7 @@ topics:
   - name: Kivy Framework
     web_url: https://kivy.org/
     image_url: https://raw.githubusercontent.com/kivy/kivy/master/kivy/data/logo/kivy-icon-256.png
+
+  - name: Microsoft Visual Basic
+    web_url: https://learn.microsoft.com/fr-fr/dotnet/visual-basic/
+    image_url: https://raw.githubusercontent.com/github/explore/71e4a0fc524fd1d7a0d9a940aa6b91f31458a87b/topics/vba/vba.png
