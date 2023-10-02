@@ -49,7 +49,7 @@ projects:
 topics:
   - name: Python
     web_url: https://www.python.org/
-    image_url: https://www.python.org/static/img/python-logo.png
+    image_url: https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png
 
   - name: Web design
 
