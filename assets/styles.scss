@@ -55,14 +55,14 @@
 
 .project {
   display: inline-block;
-  margin-right: 20px;  
+  margin-right: 20px;
+  margin-bottom: 16px;  /* Add bottom margin */
   vertical-align: top;  
   border: 1px solid #ccc;  /* Add a border */
   padding: 10px;  /* Add some space inside the border */
   border-radius: 5px;  /* Round the corners */
   width: 200px;  /* Fix the width */
   text-align: center;  /* Center the text */
-  margin-bottom: 16px;
 }
 
 
